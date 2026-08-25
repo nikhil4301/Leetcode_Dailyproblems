@@ -26,6 +26,7 @@ Daily LeetCode solutions and DSA , Database practice — building consistency, p
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/1872-stone-game-viii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +43,8 @@ Daily LeetCode solutions and DSA , Database practice — building consistency, p
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/1872-stone-game-viii) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
