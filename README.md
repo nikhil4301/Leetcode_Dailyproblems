@@ -47,4 +47,8 @@ Daily LeetCode solutions and DSA , Database practice — building consistency, p
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/3718-smallest-missing-multiple-of-k) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
