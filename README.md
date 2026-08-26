@@ -50,5 +50,6 @@ Daily LeetCode solutions and DSA , Database practice — building consistency, p
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
