@@ -55,4 +55,5 @@ Daily LeetCode solutions and DSA , Database practice — building consistency, p
 | [0181-employees-earning-more-than-their-managers](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/nikhil4301/Leetcode_Dailyproblems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
